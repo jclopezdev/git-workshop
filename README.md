@@ -17,6 +17,8 @@
 | ----------- | ----------- | ----------- |
 | Nombre            | [@usuario](https://github.com/usuario) | N/A |
 | LuisitoReySc	    | [@luis401xl](https://github.com/LuisitoReySc) | N/A |
+| Emmanuel Alvarez | [@tayshakem](https://github.com/tayshakem) | [@EmmanuelAlvarez](https://twitter.com/DigipokePop) | 
+
 
 ## Presentación
 * [Taller de Git y Github 101](https://docs.google.com/presentation/d/1DtTlWPGSeL7lq84ifD7ph-BeEzl70qUOJobuODTq8_E/edit?usp=sharing)
