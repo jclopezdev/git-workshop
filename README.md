@@ -16,9 +16,11 @@
 | Nombre      | Github | Twitter |
 | ----------- | ----------- | ----------- |
 | Nombre            | [@usuario](https://github.com/usuario) | N/A |
-| LuisitoReySc	    | [@luis401xl](https://github.com/LuisitoReySc) | N/A |
 | Emmanuel Alvarez | [@tayshakem](https://github.com/tayshakem) | [@EmmanuelAlvarez](https://twitter.com/DigipokePop) | 
-
+| Guadalupe Jaquelinne Martinez Esquivel | [@jaquelinnemartinez](https://github.com/jaquelinnemartinez) | [@ja_quemate](https://twitter.com/@ja_quemate) |
+| Juan Pablo Reyes Herrera      | [@juan-pablo-he](https://github.com/juan-pablo-he) | N/A |
+| LuisitoReySc	    | [@luis401xl](https://github.com/LuisitoReySc) | N/A |
+| Marco Antonio Rodríguez Rangel            | [@JuliettSparks](https://github.com/JuliettSparks) | N/A |
 
 ## Presentación
 * [Taller de Git y Github 101](https://docs.google.com/presentation/d/1DtTlWPGSeL7lq84ifD7ph-BeEzl70qUOJobuODTq8_E/edit?usp=sharing)
