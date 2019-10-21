@@ -16,6 +16,7 @@
 | Nombre      | Github | Twitter |
 | ----------- | ----------- | ----------- |
 | Nombre            | [@usuario](https://github.com/usuario) | N/A |
+| Emmanuel Alvarez | [@tayshakem](https://github.com/tayshakem) | [@EmmanuelAlvarez](https://twitter.com/DigipokePop) | 
 | Guadalupe Jaquelinne Martinez Esquivel | [@jaquelinnemartinez](https://github.com/jaquelinnemartinez) | [@ja_quemate](https://twitter.com/@ja_quemate) |
 | Juan Pablo Reyes Herrera      | [@juan-pablo-he](https://github.com/juan-pablo-he) | N/A |
 | LuisitoReySc	    | [@luis401xl](https://github.com/LuisitoReySc) | N/A |
