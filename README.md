@@ -16,6 +16,7 @@
 | Nombre      | Github | Twitter |
 | ----------- | ----------- | ----------- |
 | Nombre            | [@usuario](https://github.com/usuario) | N/A |
+| Guadalupe Jaquelinne Martinez Esquivel | [@jaquelinnemartinez](https://github.com/jaquelinnemartinez) | [@ja_quemate](https://twitter.com/@ja_quemate) |
 | Juan Pablo Reyes Herrera      | [@juan-pablo-he](https://github.com/juan-pablo-he) | N/A |
 | LuisitoReySc	    | [@luis401xl](https://github.com/LuisitoReySc) | N/A |
 | Marco Antonio Rodríguez Rangel            | [@JuliettSparks](https://github.com/JuliettSparks) | N/A |
